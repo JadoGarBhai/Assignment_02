@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+table{
+    border-collapse: collapse;
+    border: 3px solid;
+    letter-spacing: 1px;
+}
+
+td,th {
+    border: 1px solid;
+    padding: 10px 10px;
+    text-align: center;
+}
+
+.tc{
+margin: 10px;
+font-weight: 900;
+font-size: xx-large;
+}
+
+.lunch{
+font-weight: 800;
+font-size: x-large;
+writing-mode: vertical-rl;
+text-orientation: upright;
+}
+
+th{
+font-size: larger;
+}
+
+.day{
+font-size: larger;
+font-weight: 700;
+}
+
+.sb{
+    border-radius: 20px;
+    border-color: rgb(97, 97, 92);
+    border-width: 0.5px;
+}
+
+.loc{
+    border-color: rgb(97, 97, 92);
+    border-width: 0.5px;
+    border-radius: 4px;
+}
